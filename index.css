@@ -76,7 +76,7 @@ button {
     border-radius: 20rem;
     max-width: 70vw;
     max-height: 100vh;
-    
+    font-size: 3rem;
 }
 
 #increment-btn {
