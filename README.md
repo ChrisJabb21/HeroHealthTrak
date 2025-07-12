@@ -2,7 +2,7 @@
 
 HeroHealthTrak is a basic health counter app of counters for tracking workout reps and cups of water drunk. I couldn't decide which counter I wanted to do; so I just added both counters and incorporated them into one web project demo. Slogan: The swiss army knife of counters for health-related tasks.
 
-Tech Stack: HTML, CSS, JavaScript.
+Tech Stack: HTML, CSS, JavaScript, Netlify for deployment
 
 ## Reflection
 The app can be improved with incorporating persistent storage, personalized user login, the ability to view past previous entries of each counter, adding inputs for labelling more information on entries such as types of workout, the number of sets and  time and date of each entry with a secure backend.  
