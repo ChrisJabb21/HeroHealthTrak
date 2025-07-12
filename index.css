@@ -70,9 +70,13 @@ button {
     padding-bottom: 10px;
     color: white;
     font-weight: bold;
-    width: 200px;
+    width: 45vh;
+    height:10rem;
     margin-bottom: 5px;
     border-radius: 20rem;
+    max-width: 70vw;
+    max-height: 100vh;
+    
 }
 
 #increment-btn {
